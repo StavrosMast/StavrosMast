@@ -10,7 +10,7 @@ I'm a full-stack developer contributing in the creation of a better digital worl
     <a style="padding-right:10px;" href="https://github.com/StavrosMast" rel="nofollow noreferrer">
     <img width="30px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/github.png" alt="github"></a>
     <a href="https://www.linkedin.com/in/stavros-mastorakis/">
-         <img alt="linkedIn follow" title="Follow me on LinkedIn" src="https://custom-icon-badges.demolab.com/linkedin/LinkedIn_Followers-1086?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+         <img alt="linkedIn follow" title="Follow me on LinkedIn" src="https://custom-icon-badges.demolab.com/linkedin/LinkedIn_Followers-1086&color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
          <a href="https://github.com/StavrosMast?tab=followers">
          <img alt="github follow" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/StavrosMast?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>

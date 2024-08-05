@@ -5,10 +5,10 @@
 I'm a full-stack developer contributing in the creation of a better digital world. All coding projects are built from the ground up, from planning and designing all the way to solving problems with code. More problem solving coming soon...
 
    <p align="left">
-    <a href="https://www.linkedin.com/in/stavros-mastorakis/" rel="nofollow noreferrer">
-    <img width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/linkedin.png" alt="linkedin"></a>
-    <a href="https://github.com/StavrosMast" rel="nofollow noreferrer">
-    <img width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/github.png" alt="github"></a>
+    <a style="padding-right:10px;" href="https://www.linkedin.com/in/stavros-mastorakis/" rel="nofollow noreferrer">
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/linkedin.png" alt="linkedin"></a>
+    <a style="padding-right:10px;" href="https://github.com/StavrosMast" rel="nofollow noreferrer">
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/github.png" alt="github"></a>
     <a href="https://www.linkedin.com/in/stavros-mastorakis/">
          <img alt="linkedIn follow" title="Follow me on LinkedIn" src="https://custom-icon-badges.demolab.com/github/followers/StavrosMast?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>1086</a>
          <a href="https://github.com/StavrosMast?tab=followers">

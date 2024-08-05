@@ -6,10 +6,10 @@ I'm a full-stack developer contributing in the creation of a better digital worl
 
    <p align="left">
     <a href="https://www.linkedin.com/in/stavros-mastorakis/" rel="nofollow noreferrer">
-        <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" alt="linkedin"> LinkedIn
     </a> &nbsp; 
     <a href="https://github.com/StavrosMast" rel="nofollow noreferrer">
-        <img src="https://i.sstatic.net/tskMh.png" alt="github"> Github
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" alt="github"> Github
     </a>
     <a href="https://www.linkedin.com/in/stavros-mastorakis/">
          <img alt="linkedIn follow" title="Follow me on LinkedIn" src="https://custom-icon-badges.demolab.com/github/followers/StavrosMast?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>1086</a>

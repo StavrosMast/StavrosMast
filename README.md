@@ -36,7 +36,7 @@ I'm a full-stack developer contributing in the creation of a better digital worl
 ### 📊 Stats
 
 ![Stavros's GitHub Stats](https://github-readme-stats.vercel.app/api?username=StavrosMast&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![Stavros's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=StavrosMast&theme=dark&show_icons=true&hide_border=true&layout=compact)
 ![Stavros's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=StavrosMast&theme=dark&hide_border=true)
+![Stavros's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=StavrosMast&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=StavrosMast&theme=gruvbox&border_radius=4.5) -->

@@ -7,8 +7,6 @@ I'm a full-stack developer contributing in the creation of a better digital worl
    <p align="left">
     <a style="padding-right:10px;" href="https://www.linkedin.com/in/stavros-mastorakis/" rel="nofollow noreferrer">
     <img width="30px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/linkedin.png" alt="linkedin"></a>
-    <a style="padding-right:10px;" href="https://github.com/StavrosMast" rel="nofollow noreferrer">
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/github.png" alt="github"></a>
     <a href="https://www.linkedin.com/in/stavros-mastorakis/">
          <img alt="followers" title="Follow me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-1086-blue?style=for-the-badge&logo=person-add&logoColor=white"/></a>
        <a href="https://github.com/StavrosMast?tab=followers">

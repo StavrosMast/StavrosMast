@@ -5,8 +5,10 @@
 I'm a full-stack developer contributing in the creation of a better digital world. All coding projects are built from the ground up, from planning and designing all the way to solving problems with code. More problem solving coming soon...
 
    <p align="left">
-    <a href="https://github.com/StavrosMast?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/StavrosMast?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/stavros-mastorakis/">
+         <img alt="linkedIn follow" title="Follow me on LinkedIn" src="https://custom-icon-badges.demolab.com/github/followers/StavrosMast?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>1086</a>
+         <a href="https://github.com/StavrosMast?tab=followers">
+         <img alt="github follow" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/StavrosMast?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
 ---

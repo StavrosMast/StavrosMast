@@ -35,10 +35,13 @@ I'm a full-stack developer contributing in the creation of a better digital worl
 
 ### 📊 Stats
 
-![Stavros's GitHub Stats](https://github-readme-stats.vercel.app/api?username=StavrosMast&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![Stavros's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=StavrosMast&theme=dark&hide_border=true)
-![Stavros's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=StavrosMast&theme=dark&show_icons=true&hide_border=true&layout=compact)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=StavrosMast&theme=gruvbox&border_radius=4.5) -->
+<p align="center">
+<!-- ![Stavros's GitHub Stats](https://github-readme-stats.vercel.app/api?username=StavrosMast&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![Stavros's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=StavrosMast&theme=dark&hide_border=true)</br>
+![Stavros's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=StavrosMast&theme=dark&show_icons=true&hide_border=true&layout=compact) -->
 <img style="max-width:47%" src="https://github-readme-stats.vercel.app/api?username=StavrosMast&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="StavrosMast's GitHub Stats" />
 <img style="max-width:50%" src="https://github-readme-streak-stats.herokuapp.com/?user=StavrosMast&theme=dark&hide_border=true" alt="StavrosMast's GitHub Stats" />
+</p>
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=StavrosMast&theme=gruvbox&border_radius=4.5) -->
+<!-- <img style="max-width:47%" src="https://github-readme-stats.vercel.app/api?username=StavrosMast&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="StavrosMast's GitHub Stats" />
+<img style="max-width:50%" src="https://github-readme-streak-stats.herokuapp.com/?user=StavrosMast&theme=dark&hide_border=true" alt="StavrosMast's GitHub Stats" /> -->

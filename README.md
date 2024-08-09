@@ -38,7 +38,5 @@ I'm a full-stack developer contributing in the creation of a better digital worl
 ### 📊 Stats
 
 <p align="center">
-<img style="max-width:50%" src="https://github-readme-streak-stats.herokuapp.com/?user=StavrosMast&theme=dark&hide_border=true" alt="StavrosMast's GitHub Stats" />
-
-<img style="max-width:47%" src="https://github-readme-stats.vercel.app/api?username=StavrosMast&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="StavrosMast's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=StavrosMast&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="StavrosMast's GitHub Stats" />
 </p>
